@@ -1,0 +1,77 @@
+﻿/*Kronberg Robin Ex Ch. 8*/
+
+body {background-color:white;
+      font:12px verdana;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      color:black;
+      width:500px;
+      border:2px solid blue;
+      padding:10px;
+}
+h2{font:black 16px bold;
+   font-family:'Times New Roman', Times, serif;
+   font-variant:small-caps
+}
+h3{font:black 10px bold;
+   font-family:'Times New Roman', Times, serif;
+   font-variant:small-caps
+
+}
+
+label{width:150px;
+      font:bold;
+      text-align:right;
+      margin-right:15px;
+      margin-top:5px;
+      margin-bottom:5px;
+      display:inline-block;
+     
+}
+input, #lblBinaryOut {width:155px;
+      display:inline-block;
+      margin-top:5px;
+      margin-bottom:5px;
+     
+}
+
+
+nav ul{
+    list-style-type:none;
+    padding-left:0px;
+   
+
+}
+
+nav ul li a{
+    background-color:lightgray;
+    border: 1px solid;
+    box-shadow: 2px 2px 2px lightgray;
+    color: black;
+    margin:5px;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    width:65px;
+
+}
+
+nav ul li a:hover{background-color:burlywood;}
+
+input[type=text]:focus{
+    background-color:aquamarine;
+}
+
+input[type=checkbox]{
+    width:15px;
+}
+
+.error{font:italic 14px verdana;
+       color:red;
+}
+
+#radMoneyMath, #radFunnyMath {
+    width: 25px;
+}
+.
